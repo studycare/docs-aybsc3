@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-nayj9p.hsteamid.com/sitemap.xml
